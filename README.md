@@ -4,7 +4,7 @@ This project simulates a compilation technique for Rydberg atom quantum computin
 
 ## Project Structure
 
-The project consists of the following Python files:
+The project consists of the following Python files in the framework directory:
 
 - `main.py`: The entry point for the code.
 - `grid.py`: Contains the core logic for the atom grid simulation.

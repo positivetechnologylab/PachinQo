@@ -14,6 +14,8 @@ The project consists of the following Python files in the framework directory:
 - `utils.py`: Utility functions for debugging and validation.
 - `constants.py`: Defines spacing constants for atoms in each zone.
 
+It also consists of QASM benchmarks in the benchmarks directory.
+
 ## File Descriptions
 
 ### main.py

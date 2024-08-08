@@ -1,0 +1,3 @@
+STORAGE_SP = 2
+ENTANG_SP = 10
+MIN_SP = 0.5
